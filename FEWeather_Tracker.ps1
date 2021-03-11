@@ -13,3 +13,4 @@ $Current_syssetpath = "\\cuaisilon\socappstgfile01\SOC_Share\stg1\FlightExplorer
 $Current_syssetfile = Get-ChildItem $Current_syssetpath
 
 if ($Current_syssetfile.LastWriteTime -lt (get-date $convertDate).ToString("MM/dd/yyyy") ) { Write-Output "Need to copy new file...." }
+ 
