@@ -10,4 +10,4 @@ $username = $env:USERNAME
 $Current_syssetpath = "\\soc\soc\Applications\FlightExplorer\Profiles\FEPRD\$($username)\sysset.sys"
 $Current_syssetfile = Get-ChildItem $Current_syssetpath
 
-if ($Current_syssetfile.LastWriteTime.ToString("MM/dd/yyyy") -lt (get-date $convertDate).ToString("MM/dd/yyyy") ) { copy-item -Path $newfile -Destination $Current_syssetfile.FullName }else { Write-Output "Do not need to copy" }
+if ((get-date $Current_syssetfile.LastWriteTime) -lt (get-date $convertDate) ) { copy-item -Path $newfile -Destination $Current_syssetfile.FullName }else { Write-Output "Do not need to copy" }
