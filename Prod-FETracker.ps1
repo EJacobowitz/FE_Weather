@@ -1,10 +1,10 @@
 #Prod
 $station = @()
-$station = Get-Content \\soc\soc\Applications\FlightExplorer\Files\FEtracker.json | ConvertFrom-Json
+$station = (Get-Content \\soc\soc\Applications\FlightExplorer\Files\FEtracker.json | ConvertFrom-Json).station
 
-[int] $index = $station.station.name.IndexOf('DST')
-[datetime] $convertDate = $station.station.Date[$index]
-$newfile = ($station.station.File[$index]).Replace("/", "\")
+[int] $index = $station.name.IndexOf('DST')
+[datetime] $convertDate = $station.Date[$index]
+$newfile = ($station.File[$index]).Replace("/", "\")
 
 $username = $env:USERNAME
 $Current_syssetpath = "\\soc\soc\Applications\FlightExplorer\Profiles\FEPRD\$($username)\sysset.sys"
