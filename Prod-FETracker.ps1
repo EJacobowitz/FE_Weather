@@ -1,5 +1,4 @@
 #Prod
-$station = @()
 $station = (Get-Content \\soc\soc\Applications\FlightExplorer\Files\FEtracker.json | ConvertFrom-Json).station
 
 [int] $index = $station.name.IndexOf('DST')

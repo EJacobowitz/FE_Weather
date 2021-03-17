@@ -1,0 +1,249 @@
+{
+	"station": [
+		{
+			"name": "MOD",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "ATS",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.ATS"
+		},
+		{
+			"name": "DSP",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.DSP"
+		},
+		{
+			"name": "DOD",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "CDM",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "DST",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.DST"
+		},
+		{
+			"name": "COR",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "MOT",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "CTL",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "CSC",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "ITA",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "JBU",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "OFF",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "OVF",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "PBK",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.PBK"
+		},
+		{
+			"name": "CSS",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "JFK",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "BOS",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "FLL",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "MCO",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "SJU",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "DCA",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "EWR",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "LGA",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "LAX",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "LAS",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "BDL",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "BWI",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "PHL",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "IAD",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "ORD",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "SLC",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "SEA",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "SAN",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "CLT",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "DTW",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "DEN",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "PVD",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "DFW",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "PHX",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "HOU",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "SFO",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "LGB",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "PBI",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "MSP",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "PIT",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "RMG",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "CPO",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		},
+		{
+			"name": "SFY",
+			"Date": "1/1/2000  11:00:00 PM",
+			"File": "//soc/soc/Applications/FlightExplorer/Files/SysSet.Default"
+		}
+	]
+}
